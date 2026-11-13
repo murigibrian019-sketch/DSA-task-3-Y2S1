@@ -1,0 +1,8 @@
+Applications
+Function calls: Stacks store function calls, local variables and return addresses during program execution.
+
+Expression evaluation: Stacks are used to evaluate arithmetic expressions in postfix and prefix notation.
+
+Undo and redo operations: Applications use stacks to store previous actions so users can reverse or restore changes.
+
+Parentheses matching: Compilers use stacks to check whether brackets and parentheses are correctly balanced.
