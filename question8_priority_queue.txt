@@ -1,0 +1,23 @@
+A priority queue is a special type of queue in which every element is assigned a priority. Elements are removed according to their priority rather than simply following the FIFO principle.
+
+If two elements have the same priority, they are usually served according to their insertion order.
+
+Types of priority queues
+
+There are two main types:
+
+1. Ascending priority queue (Min-priority queue)
+- The element with the smallest priority value is removed first.
+- Elements are served in ascending order of priority.
+- Example: If the priorities are 5, 2 and 8, the element with priority 2 is removed first.
+
+2. Descending priority queue (Max-priority queue)
+- The element with the largest priority value is removed first.
+- Elements are served in descending order of priority.
+- Example: If the priorities are 5, 2 and 8, the element with priority 8 is removed first.
+
+Applications of priority queues
+1. CPU process scheduling.
+2. Hospital emergency patient management.
+3. Network packet scheduling.
+4. Shortest-path algorithms such as Dijkstra's algorithm.
