@@ -1,0 +1,4 @@
+Infix: Operator appears between operands. Example: A + B
+Postfix: Operator appears after operands. Example: AB+
+
+tree diagram attached in the email
